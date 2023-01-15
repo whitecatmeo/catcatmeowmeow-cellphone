@@ -216,3 +216,38 @@
     transition: 1s;
 }
 
+.fb{
+    color: white;
+    font-size: 20px;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid rgb(255, 89, 255);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-shadow: 0 0 3px #ff5cf7, 0 0 1px #ffa2e3;
+}
+
+.fb:hover{
+    background-color: rgba(236, 31, 255, 0.966);
+    transition: 1s;
+}
+
+.dc{
+    color: white;
+    font-size: 20px;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid rgb(148, 123, 255);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-shadow: 0 0 3px #cca0ff, 0 0 1px #df99ffe7;
+}
+
+.dc:hover{
+    background-color: rgba(213, 149, 255, 0.966);
+    transition: 1s;
+}

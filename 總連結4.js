@@ -14,7 +14,7 @@ function yy() {
     location.href=("https://whitecatmeo.github.io/catcatmeowmeow-cellphone/%E7%94%9F%E6%97%A5%E5%BD%B1%E7%89%875.html")
 }
 function zz() {
-    location.href=n("https://whitecatmeo.github.io/catcatmeowmeow-cellphone/%E7%94%9F%E6%97%A5%E5%BD%B1%E7%89%876.html")
+    location.href=("https://whitecatmeo.github.io/catcatmeowmeow-cellphone/%E7%94%9F%E6%97%A5%E5%BD%B1%E7%89%876.html")
 }
 function aa() {
     location.href=("https://whitecatmeo.github.io/catcatmeowmeow-cellphone/%E7%94%9F%E6%97%A5%E5%BD%B1%E7%89%877.html")
@@ -31,7 +31,12 @@ function mm() {
 function old() {
     location.href=("https://whitecatmeo.github.io/catcatmeowmeow-cellphone/%E4%B9%8B%E5%89%8D%E7%89%88%E6%9C%AC/%E4%B9%8B%E5%89%8D%E7%89%88%E6%9C%AC.html")
 }
-
+function fb() {
+    window.open("https://whitecatmeo.github.io/catcatmeowmeow/%E5%B0%8D%E8%A9%B1%E7%B4%80%E9%8C%84/messenger.html")
+}
+function dc() {
+    window.open("https://whitecatmeo.github.io/catcatmeowmeow/%E5%B0%8D%E8%A9%B1%E7%B4%80%E9%8C%84/dc.html")
+}
 /*
 oo生日影片
 ss生日影片2
