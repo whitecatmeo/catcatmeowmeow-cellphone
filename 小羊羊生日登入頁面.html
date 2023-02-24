@@ -8,11 +8,11 @@
         <title>小羊羊生日登入頁面</title>
         <link rel="stylesheet" href="小羊羊生日登入頁面.css" />
         <script src="https://whitecatmeo.github.io/catcatmeowmeow-cellphone/小羊羊生日登入頁面.js"> </script>
-        <form id="myform" onsubmit="password(this.pwde.value)">
         <div class="sld">
         <h1>小羊羊生日登入頁面</h1>
-        <input type="password" id="pwde" placeholder="請輸入密碼" />
-        <input type="submit" name="submit" value="登入">
+        <form Name="FormPass" method="POST">
+        <input type="password" name="Passw1" placeholder="請輸入密碼" />
+        <input type="submit" name="submit" value="登入" onClick="CheckPassword(this.form.Passw1.value) >
         </div>
         </head>
 
